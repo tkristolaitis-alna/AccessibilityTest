@@ -8,6 +8,10 @@ table 50000 "My Test Table"
         {
             DataClassification = ToBeClassified;
         }
+        field(2;Description;Text[50])
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys
